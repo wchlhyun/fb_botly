@@ -15,9 +15,17 @@ Available Commands:
 | `"!landlord"`        | Landlord's contact info
 
 In Progress Commands:
+
 | Command             | Response           
 | -------------       |:-------------:
 | `"!ttt (difficulty)"` | Play tic-tac-toe at various difficulties 
 
 Examples:
+
+![alt text](https://github.com/wchlhyun/fb_botly/blob/master/imgs/help_example.png "!help example")
+
+![alt text](https://github.com/wchlhyun/fb_botly/blob/master/rent_example.PNG "!rent example")
+
+![alt text](https://github.com/wchlhyun/fb_botly/blob/master/unknown_command_example.PNG "unknown command example")
+
 
